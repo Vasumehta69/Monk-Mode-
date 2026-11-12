@@ -1,0 +1,8 @@
+{
+  "name": "MONK MODE - Discipline Over Distraction",
+  "description": "A premium dark-themed productivity web application featuring a deep focus timer, task manager, habit streaks, reflective journal, and Gemini-powered AI Mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
